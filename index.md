@@ -3,4 +3,8 @@ This calculator is intended to allow Genshin Impact players to calculate necessa
 and provide a daily farming strategy to maximize either number of Ascensions achieved or focus on one item at a time.
 
 ## Character Selection
-<button type="button", markdown = "1">Click!</button>
+<div class="something" markdown="1">
+  ## Heading 2
+  Some **bold** text.
+</div>
+<button type="button" markdown = "1">Click!</button>
