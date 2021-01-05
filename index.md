@@ -1,6 +1,6 @@
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TheGoldenFennec/TheGoldenFennec.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Getting Started
+This calculator is intended to allow Genshin Impact players to calculate necessary materials to level up and ascend their characters and weapons
+and provide a daily farming strategy to maximize either number of Ascensions achieved or focus on one item at a time.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
