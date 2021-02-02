@@ -4,3 +4,8 @@ and provide a daily farming strategy to maximize either number of Ascensions ach
 
 ## Character Selection
 <button type="button" onclick="alert('Character Added')" markdown = "1">Add New Character</button>
+
+## Planned Features
+- Add spreadsheet math
+- Add Simple Combos for DPS math ie. All Basics -> E -> Q or All but final basic or 1 Normal 1 Charged
+- (Last) Add Custom Comobs
